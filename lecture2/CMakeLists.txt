@@ -1,3 +1,4 @@
+# this is my first modification here, just for git push test.
 cmake_minimum_required(VERSION 3.10)
 project(lecture_2)
 
