@@ -1,9 +1,9 @@
 # this is my first modification here, just for git push test.
 cmake_minimum_required(VERSION 3.10)
 project(lecture_2)
-
-include_directories(part_1)
-add_executable(cpp_basics part_1/cpp_basics.cpp part_1/tools.cpp)
+add_executable(cpp_basics part_1/cpp_basics.cpp)
+# include_directories(part_1)
+#add_executable(cpp_basics part_1/cpp_basics.cpp part_1/tools.cpp)
 
 
 # find_package(OpenCV REQUIRED)
